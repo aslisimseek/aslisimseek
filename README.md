@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aslisimseek
+- 👀 I’m interested in Java & Android
+- 🌱 I’m currently learning Algorithm / Java / Android
